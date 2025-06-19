@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧬 Mutalyze
 
 AI-Powered Gene Mutation Impact Predictor
