@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧬 Mutalyze
 
 AI-Powered Gene Mutation Impact Predictor
@@ -117,3 +118,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Built with Streamlit and FastAPI
 - Powered by AI/ML models (scikit-learn)
 - Integrated with UniProt, AlphaFold, and public bioinformatics databases 
+=======
+# MUTALYZE
+>>>>>>> 411608e374ed4c6ee7250f1e3b28a93c4e11fcd7
